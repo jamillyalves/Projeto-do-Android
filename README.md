@@ -1,4 +1,4 @@
-﻿# Projeto-do-Android
- Esse projeto é relacionado ao Curso em vídeo;
+﻿# Projeto Android
+ __Esse projeto é relacionado ao Curso em vídeo!__
  
-* Projeto de finalização do módulo 2, focado na Linguagem CSS (Cascading Style Sheets).
+ _Projeto de finalização do módulo 2, focado na Linguagem **CSS (Cascading Style Sheets).**_
